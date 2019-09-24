@@ -180,7 +180,7 @@ From Wikipedia, the free encyclopedia
     JPEG
       a most commonly used standard method of lossy compression for photographic images.
 
-      .. seealso:: <https://en.wikipedia.org/wiki/JPEG>
+      .. seealso:: <https://www.whoishostingthis.com/blog/2014/12/06/jpeg-gif-png/#what-is-a-jpeg>
 
     JPG
       look at :term:`jpeg`
